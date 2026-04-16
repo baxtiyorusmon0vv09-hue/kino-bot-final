@@ -1,0 +1,24 @@
+{
+  "name": "kino-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "mongoose": "^8.3.2"
+  }
+}
+{
+  "name": "kino-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "mongoose": "^8.3.2"
+  }
+}
